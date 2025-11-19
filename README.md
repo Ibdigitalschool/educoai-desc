@@ -1,4 +1,4 @@
-# educoai-desc# EduCoAI - Universal Adaptive Learning Management System
+# EduCoAI - Universal Adaptive Learning Management System
 
 An AI-powered, accessible-first Learning Management System that delivers **personalized education** for every student. Built on Universal Design for Learning (UDL) principles, EduCoAI combines intelligent content generation with comprehensive accessibility features to ensure inclusive learning for all.
 
