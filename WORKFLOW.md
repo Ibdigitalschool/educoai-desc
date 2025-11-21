@@ -6,7 +6,8 @@ Visual walkthrough of the platform's core features and user journeys.
 
 ## 🔐 Login Portal
 
-<img width="1012" height="651" alt="Screenshot from 2025-11-21 04-18-58" src="https://github.com/user-attachments/assets/a3653567-e781-4672-a8ce-61b5c89d7ec2" />
+<img width="1012" height="651" alt="login" src="https://github.com/user-attachments/assets/ce8859a1-4cfe-4b36-b95a-86ef1b02587a" />
+
 
 ### Unified Authentication
 All users access EduCoAI through a single login portal. The system automatically directs users to their role-specific dashboard after authentication.
@@ -24,8 +25,7 @@ All users access EduCoAI through a single login portal. The system automatically
 
 ## 👨‍💼 Super Admin Dashboard
 
-<img width="997" height="857" alt="Screenshot from 2025-11-21 04-19-18" src="https://github.com/user-attachments/assets/ff0e6df4-abe3-49b1-8308-122f6d0a1dba" />
-
+<img width="997" height="857" alt="Super-Admin" src="https://github.com/user-attachments/assets/4ea651b7-2a78-495c-aa6e-964b14792a1f" />
 
 ### Platform Management Center
 
@@ -54,7 +54,7 @@ Super Admin monitors platform health, tracks growth, manages schools, and views 
 
 ## 🏫 School Admin Dashboard
 
-<img width="997" height="857" alt="Screenshot from 2025-11-21 04-19-33" src="https://github.com/user-attachments/assets/de2d18bd-4d64-40c0-bfa6-8aab4d8a1c5b" />
+<img width="997" height="857" alt="School-Admin" src="https://github.com/user-attachments/assets/b9ba8a30-9fb3-4e91-92bf-3d8eb19988ff" />
 
 ### School Management Hub
 
@@ -79,7 +79,7 @@ School Admin manages their institution's structure, creates classes, assigns tea
 
 ## 👨‍🏫 Teacher Dashboard
 
-<img width="931" height="939" alt="Screenshot from 2025-11-21 04-20-11" src="https://github.com/user-attachments/assets/2d61d3e4-f27e-47e7-b2ef-18bd00cb0f2e" />
+<img width="931" height="939" alt="Teacher" src="https://github.com/user-attachments/assets/1e0ab58d-bb7d-484f-9035-a53d08538627" />
 
 ### Classroom & Content Center
 
@@ -103,7 +103,8 @@ Teachers create content (manually or with AI assistance), monitor student progre
 
 ## 👨‍🎓 Student Dashboard
 
-<img width="931" height="939" alt="Screenshot from 2025-11-21 04-20-29" src="https://github.com/user-attachments/assets/e00f84a9-ba5c-4b6a-9b9a-a64406324144" />
+<img width="931" height="939" alt="Student" src="https://github.com/user-attachments/assets/790cdcb1-30f0-48e1-8b29-c77397596094" />
+
 
 ### Personal Learning Space
 
@@ -127,8 +128,7 @@ Students access their lessons, track their own progress, get AI help, and custom
 
 ## 👨‍👩‍👧 Parent Dashboard
 
-<img width="931" height="939" alt="Screenshot from 2025-11-21 04-26-42" src="https://github.com/user-attachments/assets/0e349c66-64b9-451e-9a19-7ba8870a8ce8" />
-
+<img width="931" height="939" alt="Parent" src="https://github.com/user-attachments/assets/8525b4b9-8ea2-4495-825a-4683e0675060" />
 
 ### Family Monitoring Center
 
