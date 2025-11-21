@@ -6,6 +6,8 @@ An AI-powered, accessible-first Learning Management System that delivers **perso
 
 EduCoAI enables educational institutions to manage curriculum delivery, student progress, and parent engagement through an intuitive, AI-enhanced platform. The system supports multi-school administration with centralized control while providing personalized learning experiences for each student.
 
+> 📱 **[View Visual Workflow Guide →](./WORKFLOW.md)** - See dashboard screenshots and user journeys
+
 ---
 
 ## 👥 User Roles & Permissions
